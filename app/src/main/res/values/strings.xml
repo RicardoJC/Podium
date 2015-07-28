@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Podium</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="conectar">Conectar</string>
+    <string name="noble">Su dispositivo no es compatible con BLE</string>
+    <string name="buscando">Buscando...</string>
+    <string name="bpulso">Pulso</string>
+    <string name="btemperatura">Temperatura</string>
+    <string name="txtpulso">000</string>
+    <string name="txttemperatura">000</string>
+    <string name="brazoderecho">Derecho</string>
+    <string name="brazoizquierdo">Izquierdo</string>
+    <string name="txtderecho">000000</string>
+    <string name="txtizquierdo">000000</string>
+    <string name="b_d_num">0</string>
+    <string name="b">B</string>
+    <string name="b_i_num">0</string>
+    <string name="dispositivos">Dispositivos</string>
+    <string name="pruebas">Pruebas</string>
+    <string name="cargaBateria">Carga de Batería</string>
+    <string name="textViewBatería">100%</string>
+    <string name="statusCarga">Estado de Batería</string>
+    <string name="textViewStatusBatería">Desconectada</string>
+    <string name="agregar">Vincular Podium</string>
+    <string name="title_activity_splash">Podium</string>
+    <string name="title_activity_historial">Historial</string>
+    <string name="title_activity_medallas">Medallas</string>
+    <string name="title_activity_nueva_carrera">NuevaCarrera</string>
+</resources>

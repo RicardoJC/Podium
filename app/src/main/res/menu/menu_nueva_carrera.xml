@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.unam.ikayo.podium.NuevaCarrera">
+    <item android:id="@+id/vincula" android:title="@string/agregar"
+        android:orderInCategory="100" app:showAsAction="always" android:icon="@drawable/alert_v"/>
+</menu>
